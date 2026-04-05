@@ -1,4 +1,4 @@
-# Gk-Sons-Homes---Modern-Furniture-E-commerce-Website
+# Modern-Furniture-E-commerce-Website
 A fully responsive and visually appealing Furniture Website UI built using HTML, CSS, and JavaScript. This project showcases modern UI/UX design principles with smooth interactions, elegant layouts, and a clean aesthetic focused on home décor and furniture products.
 
 # 📌 Project Overview
